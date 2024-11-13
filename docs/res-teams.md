@@ -1,3 +1,0 @@
-Understanding the teams resource in the Hockey League API
-
-...
