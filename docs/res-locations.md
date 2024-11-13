@@ -1,0 +1,3 @@
+Understanding the locations resource in the Hockey League API
+
+...
