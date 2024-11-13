@@ -1,0 +1,3 @@
+Add your teams location to the Hockey League database
+
+...
