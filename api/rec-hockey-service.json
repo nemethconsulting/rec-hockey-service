@@ -127,7 +127,7 @@
             "numberOfPlayers": "19"
         }
     ],
-    "gameLocations": [
+    "locations": [
         {
             "locationId": 1,
             "locationName": "PPG Paints Arena",
