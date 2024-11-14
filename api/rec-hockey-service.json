@@ -2,89 +2,99 @@
     "games": [
         {
             "teamId": 1,
+            "teamName":"Pittsburgh Penguins",
             "season": "2024-2025",
             "seasonGames": [
                 {
                     "gameNumber": 1,
                     "date": "2024-10-09T19:30:00-05:00",
-                    "visiting": false,
+                    "homeGame": true,
                     "opposingTeam": "New York Islanders",
-                    "hostingTeam": "Pittsburgh, PA",
-                    "locationId": 1
+                    "locationId": 1,
+                    "finalScore": "0-0"
                 },
                 {
                     "gameNumber": 2,
                     "date": "2024-10-10T19:30:00-06:00",
-                    "visiting": true,
+                    "homeGame": false,
                     "opposingTeam": "Detroit Red Wings",
                     "hostingTeam": "Detroit, MI",
-                    "locationId": 2
+                    "locationId": 2,
+                    "finalScore": "0-0"
                 }
             ]
         },
         {
             "teamId": 2,
+            "teamName":"New York Rangers",
             "season": "2024-2025",
             "seasonGames": [
                 {
                     "gameNumber": 1,
                     "date": "2024-10-09T19:30:00-05:00",
-                    "visiting": true,
+                    "homeGame": false,
                     "opposingTeam": "Pittsburgh Penguins",
-                    "hostingTeam": "Pittsburgh, PA",
-                    "locationId": 1
+                    "locationId": 1,
+                    "finalScore": "0-0"
                 },
                 {
                     "gameNumber": 2,
                     "date": "2024-10-12T19:30:00-05:00",
-                    "visiting": false,
+                    "homeGame": true,
                     "opposingTeam": "Utah Hockey Club",
                     "hostingTeam": "New York City, New York",
-                    "locationId": 2
+                    "locationId": 2,
+                    "finalScore": "0-0"
                 }
             ]
         },
         {
             "teamId": 3,
+            "teamName":"Carolina Hurricanes",
             "season": "2024-2025",
             "seasonGames": [
                 {
                     "gameNumber": 1,
                     "date": "2024-10-11T19:30:00-05:00",
-                    "visiting": false,
+                    "homeGame": true,
                     "opposingTeam": "Tampa Bay Lightning",
                     "hostingTeam": "Raleigh, NC",
-                    "locationId": 3
+                    "locationId": 3,
+                    "finalScore": "0-0"
                 },
                 {
                     "gameNumber": 2,
                     "date": "2024-10-09T19:30:00-05:00",
-                    "visiting": false,
+                    "homeGame": false,
                     "opposingTeam": "New Jersey Devils",
                     "hostingTeam": "Raleigh, NC",
-                    "locationId": 3
+                    "locationId": 3,
+                    "finalScore": "0-0"
                 }
             ]
         },
         {
             "teamId": 4,
+            "teamName":"Washington Capitals",
             "season": "2024-2025",
             "seasonGames": [
                 {
                     "gameNumber": 1,
                     "date": "2024-10-09T19:30:00-05:00",
-                    "visiting": false,
+                    "homeGame": true,
                     "opposingTeam": "New Jersey Devils",
                     "hostingTeam": "Washington, D.C.",
-                    "locationId": 4
+                    "locationId": 4,
+                    "finalScore": "0-0"
                 },
                 {
                     "gameNumber": 2,
                     "date": "2024-10-09T19:30:00-05:00",
-                    "visiting": false,
+                    "homeGame": true,
                     "opposingTeam": "Las Vegas Golden Knights",
                     "hostingTeam": "Washington, D.C.",
-                    "locationId": 4
+                    "locationId": 4,
+                    "finalScore": "0-0"
                 }
             ]
         }
