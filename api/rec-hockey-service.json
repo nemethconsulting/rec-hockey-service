@@ -1,0 +1,156 @@
+{
+    "games": [
+        {
+            "teamId": 1,
+            "season": "2024-2025",
+            "seasonGames": [
+                {
+                    "gameNumber": 1,
+                    "date": "2024-10-09T19:30:00-05:00",
+                    "visiting": false,
+                    "opposingTeam": "New York Islanders",
+                    "hostingTeam": "Pittsburgh, PA",
+                    "locationId": 1
+                },
+                {
+                    "gameNumber": 2,
+                    "date": "2024-10-10T19:30:00-06:00",
+                    "visiting": true,
+                    "opposingTeam": "Detroit Red Wings",
+                    "hostingTeam": "Detroit, MI",
+                    "locationId": 2
+                }
+            ]
+        },
+        {
+            "teamId": 2,
+            "season": "2024-2025",
+            "seasonGames": [
+                {
+                    "gameNumber": 1,
+                    "date": "2024-10-09T19:30:00-05:00",
+                    "visiting": true,
+                    "opposingTeam": "Pittsburgh Penguins",
+                    "hostingTeam": "Pittsburgh, PA",
+                    "locationId": 1
+                },
+                {
+                    "gameNumber": 2,
+                    "date": "2024-10-12T19:30:00-05:00",
+                    "visiting": false,
+                    "opposingTeam": "Utah Hockey Club",
+                    "hostingTeam": "New York City, New York",
+                    "locationId": 2
+                }
+            ]
+        },
+        {
+            "teamId": 3,
+            "season": "2024-2025",
+            "seasonGames": [
+                {
+                    "gameNumber": 1,
+                    "date": "2024-10-11T19:30:00-05:00",
+                    "visiting": false,
+                    "opposingTeam": "Tampa Bay Lightning",
+                    "hostingTeam": "Raleigh, NC",
+                    "locationId": 3
+                },
+                {
+                    "gameNumber": 2,
+                    "date": "2024-10-09T19:30:00-05:00",
+                    "visiting": false,
+                    "opposingTeam": "New Jersey Devils",
+                    "hostingTeam": "Raleigh, NC",
+                    "locationId": 3
+                }
+            ]
+        },
+        {
+            "teamId": 4,
+            "season": "2024-2025",
+            "seasonGames": [
+                {
+                    "gameNumber": 1,
+                    "date": "2024-10-09T19:30:00-05:00",
+                    "visiting": false,
+                    "opposingTeam": "New Jersey Devils",
+                    "hostingTeam": "Washington, D.C.",
+                    "locationId": 4
+                },
+                {
+                    "gameNumber": 2,
+                    "date": "2024-10-09T19:30:00-05:00",
+                    "visiting": false,
+                    "opposingTeam": "Las Vegas Golden Knights",
+                    "hostingTeam": "Washington, D.C.",
+                    "locationId": 4
+                }
+            ]
+        }
+    ],
+    "teams": [
+        {
+            "teamId": 1,
+            "teamName": "Pittsburgh Penguins",
+            "headquarters": "Pittsburgh, PA",
+            "mascot": "Iceburgh",
+            "winLossRatio": "5-7",
+            "coach": "Mike Sullivan",
+            "numberOfPlayers": "17"
+        },
+        {
+            "teamId": 2,
+            "teamName": "New York Rangers",
+            "headquarters": "New York, NY",
+            "mascot": "none",
+            "winLossRatio": "8-2",
+            "coach": "Peter Philip Laviolette Jr.",
+            "numberOfPlayers": "16"
+        },
+        {
+            "teamId": 3,
+            "teamName": "Carolina Hurricanes",
+            "headquarters": "Raleigh, NC",
+            "mascot": "Stormy the Ice Hog",
+            "winLossRatio": "8-2",
+            "coach": "Rod Brind'Amour",
+            "numberOfPlayers": "18"
+        },
+        {
+            "teamId": 4,
+            "teamName": "Washington Capitals",
+            "headquarters": "Washington, D.C.",
+            "mascot": "Slapshot",
+            "winLossRatio": "8-3",
+            "coach": "Spencer Carbery",
+            "numberOfPlayers": "19"
+        }
+    ],
+    "locations": [
+        {
+            "locationId": 1,
+            "locationName": "PPG Paints Arena",
+            "locationAddress": "1001 Fifth Ave, Pittsburgh, PA 15219"
+
+        },
+        {
+            "locationId": 2,
+            "locationName": "Madison Square Garden",
+            "locationAddress": "4 Penn Plaza, New York, NY 10121"
+
+        },
+        {
+            "locationId": 3,
+            "locationName": "Lenovo Center",
+            "locationAddress": "1400 Edwards Mill Road, Raleigh, NC 27607"
+
+        },
+        {
+            "locationId": 4,
+            "locationName": "Capital One Arena",
+            "locationAddress": "601 F St NW, Washington, DC 20004"
+
+        }
+    ]
+}
