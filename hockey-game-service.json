@@ -10,7 +10,8 @@
                     "visiting": false,
                     "opposingTeam": "New York Islanders",
                     "hostingTeam": "Pittsburgh, PA",
-                    "locationId": 1
+                    "locationName": "PPG Paints Arena",
+            "locationAddress": "1001 Fifth Ave, Pittsburgh, PA 15219"
                 },
                 {
                     "gameNumber": 2,
@@ -18,7 +19,8 @@
                     "visiting": true,
                     "opposingTeam": "Detroit Red Wings",
                     "hostingTeam": "Detroit, MI",
-                    "locationId": 2
+                    "locationName": "Madison Square Garden",
+            "locationAddress": "4 Penn Plaza, New York, NY 10121"
                 }
             ]
         },
@@ -32,7 +34,8 @@
                     "visiting": true,
                     "opposingTeam": "Pittsburgh Penguins",
                     "hostingTeam": "Pittsburgh, PA",
-                    "locationId": 1
+                    "locationName": "PPG Paints Arena",
+            "locationAddress": "1001 Fifth Ave, Pittsburgh, PA 15219"
                 },
                 {
                     "gameNumber": 2,
@@ -40,7 +43,8 @@
                     "visiting": false,
                     "opposingTeam": "Utah Hockey Club",
                     "hostingTeam": "New York City, New York",
-                    "locationId": 2
+                    "locationName": "Madison Square Garden",
+            "locationAddress": "4 Penn Plaza, New York, NY 10121"
                 }
             ]
         },
@@ -54,7 +58,8 @@
                     "visiting": false,
                     "opposingTeam": "Tampa Bay Lightning",
                     "hostingTeam": "Raleigh, NC",
-                    "locationId": 3
+                    "locationName": "Lenovo Center",
+            "locationAddress": "1400 Edwards Mill Road, Raleigh, NC 27607"
                 },
                 {
                     "gameNumber": 2,
@@ -62,7 +67,8 @@
                     "visiting": false,
                     "opposingTeam": "New Jersey Devils",
                     "hostingTeam": "Raleigh, NC",
-                    "locationId": 3
+                    "locationName": "Lenovo Center",
+            "locationAddress": "1400 Edwards Mill Road, Raleigh, NC 27607"
                 }
             ]
         },
@@ -76,7 +82,8 @@
                     "visiting": false,
                     "opposingTeam": "New Jersey Devils",
                     "hostingTeam": "Washington, D.C.",
-                    "locationId": 4
+                    "locationName": "Capital One Arena",
+            "locationAddress": "601 F St NW, Washington, DC 20004"
                 },
                 {
                     "gameNumber": 2,
@@ -84,7 +91,8 @@
                     "visiting": false,
                     "opposingTeam": "Las Vegas Golden Knights",
                     "hostingTeam": "Washington, D.C.",
-                    "locationId": 4
+                    "locationName": "Capital One Arena",
+            "locationAddress": "601 F St NW, Washington, DC 20004"
                 }
             ]
         }
@@ -125,32 +133,6 @@
             "winLossRatio": "8-3",
             "coach": "Spencer Carbery",
             "numberOfPlayers": "19"
-        }
-    ],
-    "gameLocations": [
-        {
-            "locationId": 1,
-            "locationName": "PPG Paints Arena",
-            "locationAddress": "1001 Fifth Ave, Pittsburgh, PA 15219"
-
-        },
-        {
-            "locationId": 2,
-            "locationName": "Madison Square Garden",
-            "locationAddress": "4 Penn Plaza, New York, NY 10121"
-
-        },
-        {
-            "locationId": 3,
-            "locationName": "Lenovo Center",
-            "locationAddress": "1400 Edwards Mill Road, Raleigh, NC 27607"
-
-        },
-        {
-            "locationId": 4,
-            "locationName": "Capital One Arena",
-            "locationAddress": "601 F St NW, Washington, DC 20004"
-
         }
     ]
 }
