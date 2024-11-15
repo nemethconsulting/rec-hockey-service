@@ -5,7 +5,7 @@ Managing a recreational hockey league is rewarding and fun, but also hard work. 
 
 ## For Fans
 _Coming Soon:_
-Access our API to get the stats, game results, trivia, and upcoming schedule for your favorite team!
+Access our API to get the player stats, game results, trivia, and upcoming schedule for your favorite team!
 
 
 # [Learn More](nav.md)
