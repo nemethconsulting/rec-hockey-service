@@ -1,4 +1,4 @@
-# Use these links to discover more about the Hockey League API
+# Use these links to discover more about the Recreational Hockey League API
 
 ## Quick Start
 [Make your first call!](quick-start.md)
