@@ -1,4 +1,4 @@
-# Use these links to discover more about the Recreational Hockey League API
+# Use these links to discover more about the Rec Hockey League API
 
 ## Quick Start
 [Make your first call!](quick-start.md)
@@ -15,7 +15,7 @@ Overview of the HTTP methods used with this API
 2. Make Updates:
    - [Add the final score of a game](tutx-add-score.md)
    - ...
-4. ...
+3. ...
 
 ## API Reference Docs
 1. [games resource](res-games.md)
@@ -24,6 +24,5 @@ Overview of the HTTP methods used with this API
 2. [teams resource](res-teams.md)
    - [Add a team](add-team.md)
    - ...
-4. [locations resource](res-locations.md)
-   - [Add a location](add-location.md)
-   - ...
+3. [stats resource](res-stats.md)  _Coming Soon_
+4. [roster resource](res-roster.md)  _Coming Soon_
