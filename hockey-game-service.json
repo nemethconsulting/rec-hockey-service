@@ -11,7 +11,7 @@
                     "opposingTeam": "New York Islanders",
                     "hostingTeam": "Pittsburgh, PA",
                     "locationName": "PPG Paints Arena",
-            "locationAddress": "1001 Fifth Ave, Pittsburgh, PA 15219"
+                    "locationAddress": "1001 Fifth Ave, Pittsburgh, PA 15219"
                 },
                 {
                     "gameNumber": 2,
@@ -20,7 +20,7 @@
                     "opposingTeam": "Detroit Red Wings",
                     "hostingTeam": "Detroit, MI",
                     "locationName": "Madison Square Garden",
-            "locationAddress": "4 Penn Plaza, New York, NY 10121"
+                    "locationAddress": "4 Penn Plaza, New York, NY 10121"
                 }
             ]
         },
@@ -35,7 +35,7 @@
                     "opposingTeam": "Pittsburgh Penguins",
                     "hostingTeam": "Pittsburgh, PA",
                     "locationName": "PPG Paints Arena",
-            "locationAddress": "1001 Fifth Ave, Pittsburgh, PA 15219"
+                    "locationAddress": "1001 Fifth Ave, Pittsburgh, PA 15219"
                 },
                 {
                     "gameNumber": 2,
@@ -44,7 +44,7 @@
                     "opposingTeam": "Utah Hockey Club",
                     "hostingTeam": "New York City, New York",
                     "locationName": "Madison Square Garden",
-            "locationAddress": "4 Penn Plaza, New York, NY 10121"
+                    "locationAddress": "4 Penn Plaza, New York, NY 10121"
                 }
             ]
         },
@@ -59,7 +59,7 @@
                     "opposingTeam": "Tampa Bay Lightning",
                     "hostingTeam": "Raleigh, NC",
                     "locationName": "Lenovo Center",
-            "locationAddress": "1400 Edwards Mill Road, Raleigh, NC 27607"
+                    "locationAddress": "1400 Edwards Mill Road, Raleigh, NC 27607"
                 },
                 {
                     "gameNumber": 2,
@@ -68,7 +68,7 @@
                     "opposingTeam": "New Jersey Devils",
                     "hostingTeam": "Raleigh, NC",
                     "locationName": "Lenovo Center",
-            "locationAddress": "1400 Edwards Mill Road, Raleigh, NC 27607"
+                    "locationAddress": "1400 Edwards Mill Road, Raleigh, NC 27607"
                 }
             ]
         },
@@ -83,7 +83,7 @@
                     "opposingTeam": "New Jersey Devils",
                     "hostingTeam": "Washington, D.C.",
                     "locationName": "Capital One Arena",
-            "locationAddress": "601 F St NW, Washington, DC 20004"
+                    "locationAddress": "601 F St NW, Washington, DC 20004"
                 },
                 {
                     "gameNumber": 2,
@@ -92,7 +92,7 @@
                     "opposingTeam": "Las Vegas Golden Knights",
                     "hostingTeam": "Washington, D.C.",
                     "locationName": "Capital One Arena",
-            "locationAddress": "601 F St NW, Washington, DC 20004"
+                    "locationAddress": "601 F St NW, Washington, DC 20004"
                 }
             ]
         }
