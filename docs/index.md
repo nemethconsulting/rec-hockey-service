@@ -1,11 +1,6 @@
 # Introduction to the Rec Hockey League API
 
 ## For Leagues and Teams
-Managing a recreational hockey league is rewarding and fun, but also hard work. Let us take some of that load off your shoulders with our Rec Hockey League API. Use this simple service as a database for your teams' details, schedules, and win/loss records. Retrieve or update data with a few simple calls. The service easily integrates as the backend to your exisiting website or sports portal. Click 'Learn More' below to get started.
+Managing a recreational hockey league is rewarding and fun, but also hard work. Let us take some of that load off your shoulders with our Rec Hockey League API. Use this simple service as a database for your teams' details, schedules, and win/loss records. Retrieve or update data with a few simple calls. The service easily integrates as the backend to your exisiting website or sports portal.
 
-## For Fans
-_Coming Soon:_
-Access our API to get the player stats, game results, trivia, and upcoming schedule for your favorite team!
-
-
-# [Learn More](nav.md)
+# [Get Started](nav.md)
