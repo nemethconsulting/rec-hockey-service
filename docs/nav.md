@@ -18,10 +18,6 @@ Overview of the HTTP methods used with this API
 
 ## API Reference Docs
 1. [games resource](res-games.md)
-   - [Add a game](rest-add-game.md)
-   - ...
 2. [teams resource](res-teams.md)
-   - [Add a team](add-team.md)
-   - ...
 3. [stats resource](res-stats.md)  _Coming Soon_
 4. [roster resource](res-roster.md)  _Coming Soon_
