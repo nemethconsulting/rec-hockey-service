@@ -15,7 +15,6 @@ Overview of the HTTP methods used with this API
 2. [Retrieve your teams's schedule](tut-get-schedule.md)
 3. [Add the final score of a game](tut-add-score.md)
 4. [Retrieve the league's win/loss records](tut-get-wins.md)
-5. ...
 
 ## API Reference Docs
 1. [games resource](res-games.md)
