@@ -12,17 +12,12 @@ Overview of the HTTP methods used with this API
 
 ## Tutorials
 1. [Create an entry for your team](tut-create-team.md)
-2. Make Updates:
-   - [Add the final score of a game](tutx-add-score.md)
-   - ...
-3. ...
+2. [Retrieve your teams's schedule](tut-get-schedule.md)
+3. [Add the final score of a game](tut-add-score.md)
+4. [Retrieve the league's win/loss records](tut-get-wins.md)
 
 ## API Reference Docs
 1. [games resource](res-games.md)
-   - [Add a game](rest-add-game.md)
-   - ...
 2. [teams resource](res-teams.md)
-   - [Add a team](add-team.md)
-   - ...
 3. [stats resource](res-stats.md)  _Coming Soon_
 4. [roster resource](res-roster.md)  _Coming Soon_
